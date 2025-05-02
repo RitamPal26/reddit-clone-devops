@@ -22,7 +22,7 @@ pipeline {
         }
         stage('Checkout from Git') {
             steps {
-                git branch: 'main', url: 'https://github.com/RitamPal26/convex-reddit-clone-main.git'
+                git branch: 'main', url: 'https://github.com/RitamPal26/reddit-clone-devops.git'
             }
         }
         stage("Sonarqube Analysis") {
