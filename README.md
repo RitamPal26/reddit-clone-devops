@@ -163,6 +163,7 @@ Contributions are welcome! Please open issues or pull requests for improvements,
 
 
 **Authors:**  
-Akash Jain, Ritam Pal  
+Akash Jain(https://github.com/spaaxrks) 
+Ritam Pal  
 
 ---
